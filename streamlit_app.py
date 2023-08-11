@@ -1,10 +1,4 @@
 import streamlit as st
-
-st.title('Climate Change Assessment Tool')
-
-st.write('Input Data:')
-
-import streamlit as st
 from hugchat import hugchat
 from hugchat.login import Login
 
