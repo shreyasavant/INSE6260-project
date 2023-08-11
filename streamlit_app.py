@@ -3,7 +3,7 @@ from hugchat import hugchat
 from hugchat.login import Login
 
 # App title
-st.set_page_config(page_title="Climate Change Tool")
+st.set_page_config(page_title="🤗💬 HugChat")
 
 # Hugging Face Credentials
 with st.sidebar:
